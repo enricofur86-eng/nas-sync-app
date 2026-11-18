@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- ombra -->
+    <path
+        android:fillColor="#000000"
+        android:fillAlpha="0.18"
+        android:pathData="M41,29h30a6,6 0 0 1 6,6v42a6,6 0 0 1 -6,6h-30a6,6 0 0 1 -6,-6v-42a6,6 0 0 1 6,-6z" />
+    <!-- corpo del NAS -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M39,26h30a6,6 0 0 1 6,6v42a6,6 0 0 1 -6,6h-30a6,6 0 0 1 -6,-6v-42a6,6 0 0 1 6,-6z" />
+    <!-- due vani dischi -->
+    <path
+        android:fillColor="#1E3A6E"
+        android:pathData="M40,32h10a2,2 0 0 1 2,2v30a2,2 0 0 1 -2,2h-10a2,2 0 0 1 -2,-2v-30a2,2 0 0 1 2,-2z" />
+    <path
+        android:fillColor="#1E3A6E"
+        android:pathData="M58,32h10a2,2 0 0 1 2,2v30a2,2 0 0 1 -2,2h-10a2,2 0 0 1 -2,-2v-30a2,2 0 0 1 2,-2z" />
+    <path
+        android:fillColor="#5C7FB8"
+        android:pathData="M41,36h8v2h-8zM41,40h8v2h-8zM59,36h8v2h-8zM59,40h8v2h-8z" />
+    <!-- led -->
+    <path
+        android:fillColor="#43A047"
+        android:pathData="M39,73a2,2 0 1,0 4,0a2,2 0 1,0 -4,0zM45,73a2,2 0 1,0 4,0a2,2 0 1,0 -4,0z" />
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M65,73a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0z" />
+</vector>

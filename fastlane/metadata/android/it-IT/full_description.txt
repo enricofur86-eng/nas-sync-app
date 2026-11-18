@@ -1,0 +1,19 @@
+NAS Sync è un semplice file manager per il tuo NAS di casa (UGREEN, Synology, QNAP o qualsiasi server WebDAV).
+
+<b>Cosa fa</b>
+<ul>
+<li>Sfoglia le cartelle del NAS via WebDAV, anche da fuori casa</li>
+<li>Apre foto, video, PDF e documenti con le app che hai sul telefono</li>
+<li>Carica file sul NAS dal pulsante "Condividi" di qualsiasi app</li>
+<li>Crea cartelle, rinomina, elimina e condivide più file insieme</li>
+<li>Copia sul telefono (backup) opzionale: scegli le cartelle e restano disponibili anche senza rete, sempre allineate al NAS</li>
+<li>Aggiornamento automatico in background con la frequenza che preferisci, solo in Wi-Fi o anche con i dati mobili</li>
+<li>Collegamenti alle cartelle preferite sulla schermata Home</li>
+<li>Supporta i certificati autofirmati dei NAS: ti mostra l'impronta e la ricorda</li>
+<li>Tema scuro, chiaro o come il telefono</li>
+</ul>
+
+<b>Privacy</b>
+L'app parla solo con il tuo NAS. Nessuna pubblicità, nessun tracciamento, nessun server esterno. Utente e password restano sul telefono.
+
+Serve un NAS o un server con WebDAV attivo.

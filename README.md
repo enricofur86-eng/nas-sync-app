@@ -5,6 +5,15 @@ con copia opzionale delle cartelle sul telefono per averle anche senza rete.
 
 *Android file manager for your home NAS over WebDAV, with an optional offline copy of selected folders. The interface is in Italian.*
 
+## Scarica
+
+- **APK firmato**: [ultima release](https://github.com/enricofur86-eng/nas-sync-app/releases/latest)
+- **Obtainium**: aggiungi `https://github.com/enricofur86-eng/nas-sync-app`
+- **F-Droid**: in arrivo
+
+Impronta SHA-256 del certificato di firma (APK di GitHub):
+`C9:74:A2:0E:60:23:2E:76:86:BB:65:A3:93:0D:EA:55:CF:EB:8A:D7:C2:C0:38:39:10:50:C4:2B:F6:3B:B8:C1`
+
 ## Funzioni
 
 - Sfoglia il NAS via WebDAV, anche da fuori casa
